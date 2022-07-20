@@ -63,5 +63,7 @@ public class Gato {
                 ", cor='" + cor + '\'' +
                 ", idade=" + idade +
                 '}';
+
     }
+
 }
